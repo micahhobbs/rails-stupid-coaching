@@ -1,0 +1,36 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+div {
+ margin-bottom: 24px;
+ padding: 8px 16px;
+ border-left: 5px grey solid;
+}
+
+.answer {
+  background-color: #FFFFE1;
+}
+
+.link {
+  text-decoration: none;
+  color: navy;
+}
+
+input[type="text"] {
+  padding: 6px;
+  width: 50%;
+}
+
+input[type="submit"] {
+  color: white;
+  background-color: navy;
+  border: none;
+  border-radius: 4px;
+  padding: 8px;
+}
